@@ -104,4 +104,4 @@ License:
 Credits:
 ========
 
-* Many thanks to A. Mercuri for the help me to test this device.
+* Many thanks to A. Mercuri for help me to test this device.
