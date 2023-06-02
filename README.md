@@ -5,8 +5,6 @@ This project is about the construction of an inexpensive VR glove. It was the co
 
 This project must be intended as a work in progress with plenty of space for improvements ( See the following section "Important Notes and Advises").
 
-https://github.com/gbonacini/VR_Glove/blob/main/screenshoots/glove.mov
-
 Some details:
 
 * The construction doesn't involve the use of 3D printers, you only need components and materials easily available.
